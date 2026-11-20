@@ -222,7 +222,7 @@ GameObject:
   - component: {fileID: 6654199}
   - component: {fileID: 6654200}
   m_Layer: 0
-  m_Name: GroundCheckCollider
+  m_Name: col_GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
